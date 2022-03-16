@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@ant-design/pro-card": "1.18.39",
+    "@ant-design/pro-descriptions": "1.10.54",
+    "@ant-design/pro-form": "1.58.1",
+    "@ant-design/pro-list": "1.21.39",
+    "@ant-design/pro-skeleton": "^1.0.5",
+    "@ant-design/pro-table": "2.67.1",
+    "axios": "0.26.1",
+    "umi": "3.5.21"
+  }
+}
