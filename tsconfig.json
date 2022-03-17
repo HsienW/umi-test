@@ -15,9 +15,8 @@
   },
   "include": [
     "./packages",
-    "./typings/"
+    "./typings.d.ts"
   ],
-  "typings": "./typings/index.d.ts",
   "exclude": [
     "node_modules",
     "dist",
