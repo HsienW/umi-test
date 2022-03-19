@@ -1,12 +1,38 @@
 {
   "dependencies": {
-    "@ant-design/pro-card": "1.18.39",
-    "@ant-design/pro-descriptions": "1.10.54",
-    "@ant-design/pro-form": "1.58.1",
-    "@ant-design/pro-list": "1.21.39",
-    "@ant-design/pro-skeleton": "^1.0.5",
-    "@ant-design/pro-table": "2.67.1",
+    "@ant-design/pro-card": "1.18.40",
+    "@ant-design/pro-descriptions": "1.10.55",
+    "@ant-design/pro-form": "1.59.0",
+    "@ant-design/pro-list": "1.21.40",
+    "@ant-design/pro-skeleton": "1.0.5",
+    "@ant-design/pro-table": "2.68.0",
+    "ahooks": "3.1.13",
+    "antd": "4.19.2",
+    "array-move": "4.0.0",
     "axios": "0.26.1",
-    "umi": "3.5.21"
+    "braft-editor": "2.3.9",
+    "china-division": "2.5.0",
+    "classnames": "2.3.1",
+    "dayjs": "1.11.0",
+    "dva": "2.4.1",
+    "echarts": "5.3.1",
+    "immer": "9.0.12",
+    "js-file-download": "0.4.12",
+    "numeral": "2.0.6",
+    "papaparse": "5.3.2",
+    "qrcode.react": "2.0.0",
+    "qs": "6.10.3",
+    "react-activation": "0.9.11",
+    "shortid": "2.2.16",
+    "umi": "3.5.21",
+    "watermarkjs": "2.1.1",
+    "xlsx": "0.18.4"
+  },
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build"
+  },
+  "devDependencies": {
+    "umi-plugin-react": "1.15.8"
   }
 }
