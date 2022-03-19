@@ -33,6 +33,6 @@
     "build": "umi build"
   },
   "devDependencies": {
-    "umi-plugin-react": "1.15.8"
+    "@umijs/preset-react": "2.1.2"
   }
 }
